@@ -1,0 +1,32 @@
+body{
+  background-color: powderblue;
+}
+
+hr{
+  border: 1px solid black;
+}
+
+h1{
+  color: #8B0000;
+}
+
+h3{
+  color: #B22222;
+}
+
+input{
+  background-color: powderblue;
+}
+
+textarea{
+  background-color: powderblue;
+}
+
+.covid{
+  width: 55%;
+  height: auto;
+}
+
+.messageBorder{
+  border: 2px solid black;
+}
